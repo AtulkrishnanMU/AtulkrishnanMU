@@ -1,2 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=radical)
-https://img.shields.io/github/followers/AtulkrishnanMU?label=Followers&style=social
+![Followers](https://img.shields.io/github/followers/AtulkrishnanMU?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/AtulkrishnanMU/repo-name?label=Stars&style=social)
+![Forks](https://img.shields.io/github/forks/AtulkrishnanMU/repo-name?label=Forks&style=social)
+![Languages](https://img.shields.io/badge/Code-TypeScript-blue)
