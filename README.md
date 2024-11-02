@@ -20,7 +20,7 @@
 <p>Data Science/ML Enthusiast -- <i>"Data doesn't lie"</i><p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulkrishnan-mu-6b768315a)<br>
-[![Streamlit](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbF6MmT%2FbtsI5RzKWdj%2FW1WcVCwti25MkqUtMikJj1%2Fimg.png)](https://share.streamlit.io/user/atulkrishnanmu)
+Check out my projects on <a href= 'https://share.streamlit.io/user/atulkrishnanmu'>Streamlit</a>
 
 <a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulkrishnanMU&theme=graywhite&hide_border=false&layout=compact#gh-light-mode-only" alt="Top Languages" />
