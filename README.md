@@ -17,7 +17,7 @@
     <img src="https://visitcount.itsvg.in/api?id=AtulkrishnanMU&icon=0&color=0" alt="profile-view" /> 
 </p>
 
-<p>Data doesn't lie</p>
+<p><i>"Data doesn't lie"</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulkrishnan-mu-6b768315a)
 
