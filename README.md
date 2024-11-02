@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">Data Science/ML Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AtulkrishnanMU" alt="profile-view" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkrishnanmu&label=Profile%20views&color=0e75b6&style=flat" alt="atulkrishnanmu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkrishnanmu" alt="atulkrishnanmu" /></a> </p>
 
