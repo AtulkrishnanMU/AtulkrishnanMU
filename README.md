@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AtulkrishnanMU&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulkrishnanMU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align="right" width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
