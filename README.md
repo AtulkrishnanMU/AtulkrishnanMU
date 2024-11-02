@@ -1,10 +1,15 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+<div align="center">
+
+<a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/AtulkrishnanMU#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
 <img align="right" width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <br>
-
-<div align="center">
 
 <h1>Hi 👋, I'm Atul</h1>
 
