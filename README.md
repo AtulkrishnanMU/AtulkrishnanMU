@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
-<img align="right" width="200" alt="logo" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<img align="right" width="100" alt="logo" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 <br>
 
 <h1>Hi 👋, I'm Atul</h1>
