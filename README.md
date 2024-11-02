@@ -1,10 +1,8 @@
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-<img width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
-
+<img align="right" width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <br>
+
+<div align="center">
 
 <h1>Hi 👋, I'm Atul</h1>
 
