@@ -1,4 +1,11 @@
-![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&theme=auto&hide_border=false&include_all_commits=false&count_private=false)
+<a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/AtulkrishnanMU#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+
 <img align="right" width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <br>
 
@@ -14,13 +21,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulkrishnan-mu-6b768315a)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtulkrishnanMU&theme=auto&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulkrishnanMU&theme=auto&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulkrishnanMU&theme=graywhite&hide_border=false&layout=compact#gh-light-mode-only" alt="Top Languages" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AtulkrishnanMU&theme=auto&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtulkrishnanMU&limit=5&theme=auto&combine_all_yearly_contributions=true)
+<a href="https://github.com/AtulkrishnanMU#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulkrishnanMU&theme=city_lights&hide_border=false&layout=compact#gh-dark-mode-only" alt="Top Languages" />
+</a>
 
 </div>
