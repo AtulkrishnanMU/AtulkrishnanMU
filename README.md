@@ -1,4 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=graywhite#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=city_lights#gh-dark-mode-only)
 
 <a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
