@@ -1,12 +1,10 @@
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=AtulkrishnanMU&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
+<img align="right" width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <br>
 
-<h1>Hi 👋, I'm Atul</h1>
+<div align="center">
 
-<img width="200" alt="logo" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlxNHFpMXFob3ZzMXlvMWtmc2k1dTY5MGg2OWFkOTVnNGZmOTB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<h1>Hi 👋, I'm Atul</h1>
 
 <p> 
     <img src="https://visitcount.itsvg.in/api?id=AtulkrishnanMU&icon=0&color=0" alt="profile-view" /> 
