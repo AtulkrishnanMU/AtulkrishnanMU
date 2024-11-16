@@ -20,7 +20,11 @@
 <p>Data Science/ML Enthusiast -- <i>"Data doesn't lie"</i><p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulkrishnan-mu-6b768315a)<br>
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/captaincranium)<br>
+<a href="https://www.kaggle.com/captaincranium">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="100"/>
+</a>
+<br>
+
 Check out my projects on <a href= 'https://share.streamlit.io/user/atulkrishnanmu'>Streamlit</a>
 
 <a href="https://github.com/AtulkrishnanMU#gh-light-mode-only">
